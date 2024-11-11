@@ -3,7 +3,7 @@ Hey there! 👋 I'm Abdallah Ibrahim, a Data Engineer, BI analyst, ETL developer
 💡I have an internship in Data Integration and visualization from the Information Technology Institute (ITI), Egypt, and the Faculty of Computer Science, CHI University.
 I worked on multiple projects.
 
-
+ 
 I am committed to delivering high-quality work and exceeding client expectations. Let's work together to achieve your goals!
 
 Skills:
